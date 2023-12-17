@@ -6,5 +6,5 @@
 Я продолжаю разрабатывать бота и добавлять ему больше функций.
 
 
-[!Alt text](example.png?raw=True "example image")
+![Alt text](example.png?raw=true "example image")
 Пример команды и таблицы
